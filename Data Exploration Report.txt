@@ -1,0 +1,21 @@
+Data Exploration Report
+
+Initial Observations:
+- The dataset contains 5000 rows and 7 columns.
+- The 'Address' column is of object type and contains string values, representing individual addresses.
+- The number of unique addresses is: 5000
+
+Missing Values:
+- No missing values detected in the dataset.
+
+Descriptive Statistics:
+- The dataset features a wide range of values for income, age, rooms, and population.
+- Outliers exist in variables like number of bedrooms and population.
+
+Correlation Analysis:
+- Avg. Area Income, Avg. Area Number of Rooms, and Area Population show high positive correlation with Price.
+- Avg. Area Number of Bedrooms has weak correlation with Price.
+
+Distribution Analysis:
+- Distributions are mostly normal or right-skewed.
+- Boxplots revealed potential outliers in income, population, and number of rooms.
